@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikd-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikd-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushikd-coder" alt="kaushikd-coder" /></a> </p>
-
 - 🔭 I’m currently working on [Portfolio](https://github.com/kaushikd-coder/PortFolio)
 
 - 🌱 I’m currently learning **React,Next,Tailwind,Typescript,nextjs,express,node,mongodb**
@@ -35,5 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikd-coder&show_icons=true&locale=en" alt="kaushikd-coder" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikd-coder&" alt="kaushikd-coder" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushikd-coder" alt="kaushikd-coder" /></a> </p>
 
 
