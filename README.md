@@ -7,13 +7,13 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!-- <img align="right" alt="giffy" width="300" height="250"  src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" /> -->
 
-<!-- <p >
+<p >
   <img align="left"  width ="47%" src="https://github-readme-stats.vercel.app/api?username=kaushikd-coder&show_icons=true&theme=radical" alt="img"/>
 </p>
 <p >
   <img  align="right" width ="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikd-coder&layout=compact" alt="img"/>
 </p>
- -->
+
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikd-coder&show_icons=true&theme=radical)
