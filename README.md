@@ -14,11 +14,8 @@
   <img align="left"  width ="47%" src="https://github-readme-stats.vercel.app/api?username=kaushikd-coder&show_icons=true&theme=radical" alt="img"/>
 </p>
 <p >
-  <img align="left"  width ="47%" src="https://github-readme-stats.vercel.app/api?username=kaushikd-coder&show_icons=true&theme=radical" alt="img"/>
-</p>
-<!-- <p >
   <img  align="right" width ="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikd-coder&layout=compact" alt="img"/>
-</p> -->
+</p>
 
 
 
