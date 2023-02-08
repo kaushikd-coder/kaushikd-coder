@@ -1,5 +1,5 @@
 
-<!-- ![MasterHead](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only) -->
+![MasterHead](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
 
 
 
